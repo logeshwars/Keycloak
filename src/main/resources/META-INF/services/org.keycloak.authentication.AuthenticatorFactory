@@ -1,0 +1,5 @@
+custom.authenticators.dateofbirth.DOBAuthenticatorFactory
+custom.authenticators.emailAuth.PasswordAuthenticatorFactory
+custom.authenticators.emailAuth.EmailAuthenticatorFactory
+custom.task.ShowUserAuthenticatorFactory
+custom.task.ForgotPasswordAuthenticatorFactory
